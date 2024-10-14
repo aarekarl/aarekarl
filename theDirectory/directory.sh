@@ -1,3 +1,4 @@
-cat README
-pwd
-dirname "$(pwd)/README"
+#!/bin/bash
+ cd thedirectory/left/down/beginning
+ cat README
+ pwd
